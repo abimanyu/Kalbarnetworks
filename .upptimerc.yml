@@ -18,9 +18,11 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /Kalbarnetworks
   logoUrl: https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_West_Kalimantan.svg
+  favicon: https://kalbarprov.go.id/public/assets/images/favicon.ico
   name: Status Web Pemerintahan Kalimantan Barat - Kalbarnetworks
   introTitle: "**KalbarNetworks** adalah Status uptime bagi website di [Kalbar](https://www.kalbarprov.go.id/)."
   introMessage: Halaman ini berfungsi untuk memonitor website yang berhubungan dengan [Kalimantan Barat](https://www.kalbarprov.go.id/)
+  theme: dark
   navbar:
     - title: Status
       href: /
@@ -73,6 +75,8 @@ i18n:
   errorIntro: Terjadi kesalahan saat mencoba mendapatkan detail status terbaru.
   errorText: Anda dapat mencoba lagi dalam beberapa saat.
   errorHome: Buka beranda
+
+user-agent: abimanyu
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
