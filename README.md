@@ -1,4 +1,4 @@
-# [📈 Status Langsung](https://abimanyu.github.io/Kalbarnetworks): <!--live status--> **🟧 Partial outage**
+# [📈 Kalbar Networks Website](https://abimanyu.github.io/Kalbarnetworks): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Abimanyu Yusuf](http://abimanyu.net), powered by [Upptime](https://github.com/upptime/upptime).
 
