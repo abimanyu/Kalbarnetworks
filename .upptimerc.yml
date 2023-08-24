@@ -19,11 +19,11 @@ status-website:
   baseUrl: /Kalbarnetworks
   logoUrl: https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_West_Kalimantan.svg
   name: Status Web Pemerintahan Kalimantan Barat - Kalbarnetworks
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**KalbarNetworks** adalah Status uptime bagi website di [Kalbar](https://www.kalbarprov.go.id/)."
+  introMessage: Halaman ini berfungsi untuk memonitor website yang berhubungan dengan [Kalimantan Barat](https://www.kalbarprov.go.id/)
   navbar:
     - title: Status
-      href: /Kalbarnetworks
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
