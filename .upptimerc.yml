@@ -28,12 +28,12 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  activeIncidents: Insiden Aktif
+  activeIncidents: Kendala Aktif
   allSystemsOperational: Semua sistem beroperasi
-  incidentReport: "Laporan insiden #$NUMBER →"
+  incidentReport: "Laporan kendala #$NUMBER →"
   activeIncidentSummary: Dibuka pada $DATE dengan $POSTS postingan
-  incidentTitle: Detail Insiden $NUMBER
-  incidentDetails: Detail Insiden
+  incidentTitle: Detail Kendala $NUMBER
+  incidentDetails: Detail Kendala
   incidentFixed: Diperbaiki
   incidentOngoing: Sedang berlangsung
   incidentOpenedAt: Dibuka pada
@@ -41,10 +41,10 @@ i18n:
   incidentSubscribe: Berlangganan Pembaruan
   incidentViewOnGitHub: Lihat di GitHub
   incidentCommentSummary: Diposting pada $DATE oleh $AUTHOR
-  incidentBack: ← Kembali ke semua insiden
-  pastIncidents: Insiden Masa Lalu
+  incidentBack: ← Kembali ke semua kendala
+  pastIncidents: Kendala Masa Lalu
   pastIncidentsResolved: Diselesaikan dalam $MINUTES menit dengan $POSTS postingan
-  liveStatus: Status Langsung
+  liveStatus: Live Status
   overallUptime: Uptime keseluruhan $UPTIME%
   overallUptimeTitle: Uptime keseluruhan
   averageResponseTime: Waktu respons rata-rata $TIMEms
@@ -56,7 +56,7 @@ i18n:
   ms: ms
   loading: Loading
   navGitHub: GitHub
-  footer: Halaman ini [open source]($REPO), dikembangkan oleh [Habib Rohman](https://github.com/hexatester) dengan menggunakan [Upptime](https://upptime.js.org)
+  footer: Halaman ini [open source]($REPO), dikembangkan oleh [Abimanyu Yusuf](https://github.com/abimanyu) dengan menggunakan [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Batas tarif terlampaui
   rateLimitExceededIntro: Anda telah melebihi jumlah permintaan yang dapat Anda lakukan dalam satu jam, jadi Anda harus menunggu sebelum mengakses situs web ini lagi. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub untuk terus menggunakan situs web ini.
   rateLimitExceededWhatDoesErrorMean: Apa arti kesalahan ini?
