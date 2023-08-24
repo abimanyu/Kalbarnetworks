@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kalbarprov.go.id.ico",
     "slug": "kalbar-prov",
     "status": "down",
-    "uptime": "26.85%",
-    "uptimeDay": "26.85%",
-    "uptimeWeek": "26.85%",
-    "uptimeMonth": "26.85%",
-    "uptimeYear": "26.85%",
+    "uptime": "0.82%",
+    "uptimeDay": "0.82%",
+    "uptimeWeek": "0.82%",
+    "uptimeMonth": "0.82%",
+    "uptimeYear": "0.82%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-24": 0
+      "2023-08-24": 12
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7889,
-    "timeDay": 7889,
-    "timeWeek": 7889,
-    "timeMonth": 7889,
-    "timeYear": 7889,
+    "time": 7590,
+    "timeDay": 7590,
+    "timeWeek": 7590,
+    "timeMonth": 7590,
+    "timeYear": 7590,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2854,
-    "timeDay": 2854,
-    "timeWeek": 2854,
-    "timeMonth": 2854,
-    "timeYear": 2854,
+    "time": 4140,
+    "timeDay": 4140,
+    "timeWeek": 4140,
+    "timeMonth": 4140,
+    "timeYear": 4140,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1470,
-    "timeDay": 1470,
-    "timeWeek": 1470,
-    "timeMonth": 1470,
-    "timeYear": 1470,
+    "time": 1473,
+    "timeDay": 1473,
+    "timeWeek": 1473,
+    "timeMonth": 1473,
+    "timeYear": 1473,
     "dailyMinutesDown": {}
   }
 ]
