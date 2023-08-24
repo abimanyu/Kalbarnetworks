@@ -5,12 +5,131 @@ repo: Kalbarnetworks # The name of this repository
 sites:
   - name: Kalbar Prov
     url: https://www.kalbarprov.go.id
+  - name: Kota Pontianak
+    url: https://pontianak.go.id
+  - name: Kota Singkawang
+    url: https://singkawangkota.go.id
+  - name: Kab. Mempawah
+    url: https://www.mempawahkab.go.id
+  - name: Kab. Bengkayang
+    url: http://bengkayangkab.go.id
+  - name: Kab. Sanggau
+    url: https://sanggau.go.id
+  - name: Kab. Sintang
+    url: http://sintang.go.id
+  - name: Kab. Landak
+    url: http://landakkab.go.id
+  - name: Kab. Ketapang
+    url: https://ketapangkab.go.id
+  - name: Kab. Sekadau
+    url: https://sekadaukab.go.id
+  - name: Kab. Sambas
+    url: https://sambas.go.id
+  - name: Kab. Melawi
+    url: http://melawikab.go.id
+  - name: Kab. Kubu Raya
+    url: https://kuburayakab.go.id
+  - name: Kab. Kayong Utara
+    url: https://kayongutarakab.go.id
+  - name: Kab. Kapuas Hulu
+    url: https://www.kapuashulukab.go.id
   - name: Badan Penghubung
     url: https://penghubung.kalbarprov.go.id
   - name: BALITBANG
     url: https://litbang.kalbarprov.go.id
   - name: BAPENDA
     url: https://bapenda.kalbarprov.go.id
+  - name: BAPPEDA
+    url: https://bappeda.kalbarprov.go.id
+  - name: Biro Administrasi Pembangunan
+    url: https://adpim.kalbarprov.go.id
+  - name: Biro Hukum
+    url: https://jdih.kalbarprov.go.id
+  - name: Biro Kesejahteraan Rakyat
+    url: https://birokesra.kalbarprov.go.id
+  - name: Biro Organisasi
+    url: https://biroorganisasi.kalbarprov.go.id
+  - name: Biro Organisasi
+    url: https://biroorganisasi.kalbarprov.go.id
+  - name: Biro Pemerintahan
+    url: https://biropemerintahan.kalbarprov.go.id
+  - name: Biro Pengadaan Barang Dan Jasa
+    url: https://pbj.kalbarprov.go.id
+  - name: Biro Perekonomian
+    url: https://biroekonomi.kalbarprov.go.id
+  - name: Biro Umum
+    url: https://biroumum.kalbarprov.go.id
+  - name: BKAD
+    url: https://bkad.kalbarprov.go.id
+  - name: BKD
+    url: https://bkd.kalbarprov.go.id
+  - name: BPBD
+    url: https://bpbd.kalbarprov.go.id
+  - name: BPSDM
+    url: https://bpsdm.kalbarprov.go.id
+  - name: DIKBUD
+    url: https://dikbud.kalbarprov.go.id
+  - name: Dinas PUPR
+    url: https://dpu.kalbarprov.go.id
+  - name: DINKES
+    url: https://dinkes.kalbarprov.go.id
+  - name: DINSOS
+    url: https://dinsos.kalbarprov.go.id
+  - name: DISBUNAK
+    url: https://disbun.kalbarprov.go.id
+  - name: DISDUKCAPIL
+    url: https://dukcapil.kalbarprov.go.id
+  - name: DISHANPAN
+    url: https://disketpangan.kalbarprov.go.id
+  - name: DISHUB
+    url: https://dishub.kalbarprov.go.id
+  - name: DISKOMINFO
+    url: https://diskominfo.kalbarprov.go.id
+  - name: DISKOPUKM
+    url: https://diskopukm.kalbarprov.go.id
+  - name: DISLAUTKAN
+    url: https://dislautkan.kalbarprov.go.id
+  - name: DISNAKERTRANS
+    url: https://disnakertrans.kalbarprov.go.id
+  - name: DISNAKESWAN
+    url: https://dppkh.kalbarprov.go.id
+  - name: DISPERINDAGESDM
+    url: https://disperindag.kalbarprov.go.id
+  - name: DISPORAPAR
+    url: https://disporapar.kalbarprov.go.id
+  - name: DLHK
+    url: https://lhk.kalbarprov.go.id
+  - name: DP3A
+    url: https://dp3a.kalbarprov.go.id
+  - name: DPK
+    url: https://dpk.kalbarprov.go.id
+  - name: DPM-PTSP
+    url: https://dpm-ptsp.kalbarprov.go.id
+  - name: DPMD
+    url: https://dpmd.kalbarprov.go.id
+  - name: DPRD
+    url: https://dprd.kalbarprov.go.id
+  - name: DTPH
+    url: https://distan.kalbarprov.go.id
+  - name: INSPEKTORAT
+    url: https://inspektorat.kalbarprov.go.id
+  - name: KESBANGPOL
+    url: https://kesbangpol.kalbarprov.go.id
+  - name: PERKIM
+    url: https://perkim.kalbarprov.go.id
+  - name: RSJ Sui Bangkong
+    url: https://rsjdsuibangkong.kalbarprov.go.id
+  - name: RSUD dr. Soedarso
+    url: https://rsuddrsoedarso.kalbarprov.go.id
+  - name: Rumah Sakit Jiwa Provinsi
+    url: https://rsjprov.kalbarprov.go.id
+  - name: SATPOL PP
+    url: https://satpolpp.kalbarprov.go.id
+  - name: UPT-TIKP Kalbar
+    url: https://upttikp.kalbarprov.go.id
+  - name: Mail Kalbarprov
+    url: https://mail.kalbarprov.go.id
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
