@@ -129,6 +129,24 @@ sites:
     url: https://upttikp.kalbarprov.go.id
   - name: Mail Kalbarprov
     url: https://mail.kalbarprov.go.id
+  - name: Datacloud Kalbarprov
+    url: https://datacloud.kalbarprov.go.id
+  - name: edoc Kalbarprov
+    url: https://edoc.kalbarprov.go.id
+  - name: SIBOWAL
+    url: https://vidcon.kalbarprov.go.id
+  - name: E-Activity
+    url: https://aktivitas.kalbarprov.go.id
+  - name: PresensiPemprov
+    url: https://presensi.kalbarprov.go.id
+  - name: Kapuas
+    url: https://kapuas.kalbarprov.go.id
+  - name: Layanan
+    url: https://layanan.kalbarprov.go.id
+  - name: FLLAJ
+    url: https://www.fllaj.kalbarprov.go.id
+  - name: E-KINERJA
+    url: https://ekinerja.kalbarprov.go.id
   
 
 status-website:
