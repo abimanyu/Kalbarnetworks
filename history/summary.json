@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 3,
+      "2023-08-25": 10,
       "2023-08-24": 1022
     }
   },
@@ -332,18 +332,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bappeda.kalbarprov.go.id.ico",
     "slug": "bappeda",
     "status": "down",
-    "uptime": "7.69%",
-    "uptimeDay": "7.69%",
-    "uptimeWeek": "7.69%",
-    "uptimeMonth": "7.69%",
-    "uptimeYear": "7.69%",
+    "uptime": "3.34%",
+    "uptimeDay": "3.34%",
+    "uptimeWeek": "3.34%",
+    "uptimeMonth": "3.34%",
+    "uptimeYear": "3.34%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 3,
+      "2023-08-25": 10,
       "2023-08-24": 2
     }
   },
@@ -659,18 +659,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disbun.kalbarprov.go.id.ico",
     "slug": "disbunak",
     "status": "down",
-    "uptime": "14.22%",
-    "uptimeDay": "14.22%",
-    "uptimeWeek": "14.22%",
-    "uptimeMonth": "14.22%",
-    "uptimeYear": "14.22%",
+    "uptime": "4.81%",
+    "uptimeDay": "4.81%",
+    "uptimeWeek": "4.81%",
+    "uptimeMonth": "4.81%",
+    "uptimeYear": "4.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 3,
+      "2023-08-25": 10,
       "2023-08-24": 0
     }
   },
@@ -806,18 +806,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dppkh.kalbarprov.go.id.ico",
     "slug": "disnakeswan",
     "status": "down",
-    "uptime": "19.20%",
-    "uptimeDay": "19.20%",
-    "uptimeWeek": "19.20%",
-    "uptimeMonth": "19.20%",
-    "uptimeYear": "19.20%",
+    "uptime": "5.11%",
+    "uptimeDay": "5.11%",
+    "uptimeWeek": "5.11%",
+    "uptimeMonth": "5.11%",
+    "uptimeYear": "5.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 2
+      "2023-08-25": 9
     }
   },
   {
@@ -826,18 +826,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disperindag.kalbarprov.go.id.ico",
     "slug": "disperindagesdm",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 2
+      "2023-08-25": 9
     }
   },
   {
@@ -1127,7 +1127,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 1
+      "2023-08-25": 8
     }
   },
   {
