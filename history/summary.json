@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 455,
+      "2023-08-25": 466,
       "2023-08-24": 1022
     }
   },
@@ -98,18 +98,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanggau.go.id.ico",
     "slug": "kab-sanggau",
     "status": "down",
-    "uptime": "92.17%",
-    "uptimeDay": "92.17%",
-    "uptimeWeek": "92.17%",
-    "uptimeMonth": "92.17%",
-    "uptimeYear": "92.17%",
+    "uptime": "90.01%",
+    "uptimeDay": "90.01%",
+    "uptimeWeek": "90.01%",
+    "uptimeMonth": "90.01%",
+    "uptimeYear": "90.01%",
     "time": 1725,
     "timeDay": 1725,
     "timeWeek": 1725,
     "timeMonth": 1725,
     "timeYear": 1725,
     "dailyMinutesDown": {
-      "2023-08-25": 36
+      "2023-08-25": 47
     }
   },
   {
@@ -262,11 +262,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kapuashulukab.go.id.ico",
     "slug": "kab-kapuas-hulu",
     "status": "up",
-    "uptime": "52.26%",
-    "uptimeDay": "52.26%",
-    "uptimeWeek": "52.26%",
-    "uptimeMonth": "52.26%",
-    "uptimeYear": "52.26%",
+    "uptime": "53.38%",
+    "uptimeDay": "53.38%",
+    "uptimeWeek": "53.38%",
+    "uptimeMonth": "53.38%",
+    "uptimeYear": "53.38%",
     "time": 8309,
     "timeDay": 8309,
     "timeWeek": 8309,
@@ -288,7 +288,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5272,
-    "timeDay": 4963,
+    "timeDay": 4147,
     "timeWeek": 5272,
     "timeMonth": 5272,
     "timeYear": 5272,
@@ -306,7 +306,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2728,
-    "timeDay": 2554,
+    "timeDay": 2066,
     "timeWeek": 2728,
     "timeMonth": 2728,
     "timeYear": 2728,
@@ -324,7 +324,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2336,
-    "timeDay": 2089,
+    "timeDay": 2185,
     "timeWeek": 2336,
     "timeMonth": 2336,
     "timeYear": 2336,
@@ -347,7 +347,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 455,
+      "2023-08-25": 466,
       "2023-08-24": 2
     }
   },
@@ -518,19 +518,19 @@
     "url": "https://bkad.kalbarprov.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/bkad.kalbarprov.go.id.ico",
     "slug": "bkad",
-    "status": "up",
-    "uptime": "95.98%",
-    "uptimeDay": "95.98%",
-    "uptimeWeek": "95.98%",
-    "uptimeMonth": "95.98%",
-    "uptimeYear": "95.98%",
+    "status": "down",
+    "uptime": "95.40%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "95.40%",
+    "uptimeMonth": "95.40%",
+    "uptimeYear": "95.40%",
     "time": 6780,
     "timeDay": 6780,
     "timeWeek": 6780,
     "timeMonth": 6780,
     "timeYear": 6780,
     "dailyMinutesDown": {
-      "2023-08-25": 18
+      "2023-08-25": 21
     }
   },
   {
@@ -556,19 +556,19 @@
     "url": "https://bpbd.kalbarprov.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/bpbd.kalbarprov.go.id.ico",
     "slug": "bpbd",
-    "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
-    "time": 963,
-    "timeDay": 963,
-    "timeWeek": 963,
-    "timeMonth": 963,
-    "timeYear": 963,
+    "status": "up",
+    "uptime": "97.67%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "97.67%",
+    "time": 967,
+    "timeDay": 967,
+    "timeWeek": 967,
+    "timeMonth": 967,
+    "timeYear": 967,
     "dailyMinutesDown": {
-      "2023-08-25": 3
+      "2023-08-25": 11
     }
   },
   {
@@ -678,7 +678,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 456,
+      "2023-08-25": 466,
       "2023-08-24": 0
     }
   },
@@ -825,7 +825,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 455
+      "2023-08-25": 466
     }
   },
   {
@@ -845,7 +845,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 455
+      "2023-08-25": 466
     }
   },
   {
@@ -1135,7 +1135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 454
+      "2023-08-25": 465
     }
   },
   {
@@ -1191,7 +1191,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 405
+      "2023-08-25": 416
     }
   },
   {
@@ -1308,18 +1308,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ekinerja.kalbarprov.go.id.ico",
     "slug": "e-kinerja",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 404
+      "2023-08-25": 415
     }
   }
 ]
