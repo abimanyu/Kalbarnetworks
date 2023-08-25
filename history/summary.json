@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 438,
+      "2023-08-25": 444,
       "2023-08-24": 1022
     }
   },
@@ -98,18 +98,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanggau.go.id.ico",
     "slug": "kab-sanggau",
     "status": "down",
-    "uptime": "95.78%",
-    "uptimeDay": "95.78%",
-    "uptimeWeek": "95.78%",
-    "uptimeMonth": "95.78%",
-    "uptimeYear": "95.78%",
+    "uptime": "94.49%",
+    "uptimeDay": "94.49%",
+    "uptimeWeek": "94.49%",
+    "uptimeMonth": "94.49%",
+    "uptimeYear": "94.49%",
     "time": 1725,
     "timeDay": 1725,
     "timeWeek": 1725,
     "timeMonth": 1725,
     "timeYear": 1725,
     "dailyMinutesDown": {
-      "2023-08-25": 19
+      "2023-08-25": 25
     }
   },
   {
@@ -262,11 +262,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kapuashulukab.go.id.ico",
     "slug": "kab-kapuas-hulu",
     "status": "up",
-    "uptime": "50.39%",
-    "uptimeDay": "50.39%",
-    "uptimeWeek": "50.39%",
-    "uptimeMonth": "50.39%",
-    "uptimeYear": "50.39%",
+    "uptime": "51.06%",
+    "uptimeDay": "51.06%",
+    "uptimeWeek": "51.06%",
+    "uptimeMonth": "51.06%",
+    "uptimeYear": "51.06%",
     "time": 8309,
     "timeDay": 8309,
     "timeWeek": 8309,
@@ -288,7 +288,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5272,
-    "timeDay": 4944,
+    "timeDay": 4666,
     "timeWeek": 5272,
     "timeMonth": 5272,
     "timeYear": 5272,
@@ -306,7 +306,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2728,
-    "timeDay": 2713,
+    "timeDay": 2367,
     "timeWeek": 2728,
     "timeMonth": 2728,
     "timeYear": 2728,
@@ -324,7 +324,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2336,
-    "timeDay": 2445,
+    "timeDay": 2020,
     "timeWeek": 2336,
     "timeMonth": 2336,
     "timeYear": 2336,
@@ -336,18 +336,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bappeda.kalbarprov.go.id.ico",
     "slug": "bappeda",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 438,
+      "2023-08-25": 444,
       "2023-08-24": 2
     }
   },
@@ -519,11 +519,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bkad.kalbarprov.go.id.ico",
     "slug": "bkad",
     "status": "up",
-    "uptime": "95.82%",
-    "uptimeDay": "95.82%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "95.82%",
-    "uptimeYear": "95.82%",
+    "uptime": "95.88%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "95.88%",
+    "uptimeMonth": "95.88%",
+    "uptimeYear": "95.88%",
     "time": 6780,
     "timeDay": 6780,
     "timeWeek": 6780,
@@ -556,19 +556,19 @@
     "url": "https://bpbd.kalbarprov.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/bpbd.kalbarprov.go.id.ico",
     "slug": "bpbd",
-    "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
-    "time": 969,
-    "timeDay": 969,
-    "timeWeek": 969,
-    "timeMonth": 969,
-    "timeYear": 969,
+    "status": "up",
+    "uptime": "98.68%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
+    "time": 963,
+    "timeDay": 963,
+    "timeWeek": 963,
+    "timeMonth": 963,
+    "timeYear": 963,
     "dailyMinutesDown": {
-      "2023-08-25": 3
+      "2023-08-25": 6
     }
   },
   {
@@ -678,7 +678,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 438,
+      "2023-08-25": 444,
       "2023-08-24": 0
     }
   },
@@ -825,7 +825,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 437
+      "2023-08-25": 443
     }
   },
   {
@@ -845,7 +845,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 437
+      "2023-08-25": 443
     }
   },
   {
@@ -1135,7 +1135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 436
+      "2023-08-25": 442
     }
   },
   {
@@ -1191,7 +1191,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 388
+      "2023-08-25": 394
     }
   },
   {
@@ -1319,7 +1319,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 387
+      "2023-08-25": 393
     }
   }
 ]
