@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-26": 1274,
+      "2023-08-26": 1386,
       "2023-08-25": 1440,
       "2023-08-24": 1022
     }
@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pontianak.go.id.ico",
     "slug": "kota-pontianak",
     "status": "down",
-    "uptime": "97.71%",
-    "uptimeDay": "95.68%",
-    "uptimeWeek": "97.71%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "97.71%",
+    "uptime": "93.86%",
+    "uptimeDay": "87.94%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "93.86%",
+    "uptimeYear": "93.86%",
     "time": 10729,
     "timeDay": 0,
     "timeWeek": 10729,
     "timeMonth": 10729,
     "timeYear": 10729,
     "dailyMinutesDown": {
-      "2023-08-26": 62
+      "2023-08-26": 174
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanggau.go.id.ico",
     "slug": "kab-sanggau",
     "status": "up",
-    "uptime": "73.36%",
-    "uptimeDay": "60.52%",
-    "uptimeWeek": "73.36%",
-    "uptimeMonth": "73.36%",
-    "uptimeYear": "73.36%",
+    "uptime": "74.64%",
+    "uptimeDay": "60.97%",
+    "uptimeWeek": "74.64%",
+    "uptimeMonth": "74.64%",
+    "uptimeYear": "74.64%",
     "time": 4241,
     "timeDay": 6359,
     "timeWeek": 4241,
     "timeMonth": 4241,
     "timeYear": 4241,
     "dailyMinutesDown": {
-      "2023-08-26": 568,
+      "2023-08-26": 562,
       "2023-08-25": 155
     }
   },
@@ -158,11 +158,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ketapangkab.go.id.ico",
     "slug": "kab-ketapang",
     "status": "up",
-    "uptime": "97.76%",
+    "uptime": "97.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "97.76%",
-    "uptimeYear": "97.76%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "97.84%",
+    "uptimeYear": "97.84%",
     "time": 4679,
     "timeDay": 0,
     "timeWeek": 4679,
@@ -178,11 +178,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sekadaukab.go.id.ico",
     "slug": "kab-sekadau",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.30%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 2179,
     "timeDay": 0,
     "timeWeek": 2179,
@@ -197,18 +197,19 @@
     "url": "https://sambas.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/sambas.go.id.ico",
     "slug": "kab-sambas",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
     "time": 2475,
     "timeDay": 2451,
     "timeWeek": 2475,
     "timeMonth": 2475,
     "timeYear": 2475,
     "dailyMinutesDown": {
+      "2023-08-26": 4,
       "2023-08-25": 24
     }
   },
@@ -272,13 +273,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kapuashulukab.go.id.ico",
     "slug": "kab-kapuas-hulu",
     "status": "up",
-    "uptime": "85.56%",
-    "uptimeDay": "94.40%",
-    "uptimeWeek": "85.56%",
-    "uptimeMonth": "85.56%",
-    "uptimeYear": "85.56%",
+    "uptime": "86.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.13%",
+    "uptimeMonth": "86.13%",
+    "uptimeYear": "86.13%",
     "time": 5731,
-    "timeDay": 2341,
+    "timeDay": 1910,
     "timeWeek": 5731,
     "timeMonth": 5731,
     "timeYear": 5731,
@@ -346,18 +347,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bappeda.kalbarprov.go.id.ico",
     "slug": "bappeda",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-26": 1275,
+      "2023-08-26": 1386,
       "2023-08-25": 1440,
       "2023-08-24": 2
     }
@@ -530,11 +531,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bkad.kalbarprov.go.id.ico",
     "slug": "bkad",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 6576,
     "timeDay": 7616,
     "timeWeek": 6576,
@@ -687,7 +688,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-26": 1275,
+      "2023-08-26": 1386,
       "2023-08-25": 1440,
       "2023-08-24": 0
     }
@@ -716,18 +717,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disketpangan.kalbarprov.go.id.ico",
     "slug": "dishanpan",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "95.98%",
+    "uptimeDay": "92.11%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "95.98%",
     "time": 2006,
     "timeDay": 1147,
     "timeWeek": 2006,
     "timeMonth": 2006,
     "timeYear": 2006,
     "dailyMinutesDown": {
-      "2023-08-26": 2
+      "2023-08-26": 114
     }
   },
   {
@@ -837,7 +838,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-26": 1275,
+      "2023-08-26": 1386,
       "2023-08-25": 1439
     }
   },
@@ -858,7 +859,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-26": 1275,
+      "2023-08-26": 1386,
       "2023-08-25": 1439
     }
   },
@@ -1149,7 +1150,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-26": 1275,
+      "2023-08-26": 1386,
       "2023-08-25": 1438
     }
   },
@@ -1206,7 +1207,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-26": 1275,
+      "2023-08-26": 1386,
       "2023-08-25": 1389
     }
   },
@@ -1234,18 +1235,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aktivitas.kalbarprov.go.id.ico",
     "slug": "e-activity",
     "status": "up",
-    "uptime": "50.41%",
-    "uptimeDay": "8.25%",
-    "uptimeWeek": "50.41%",
-    "uptimeMonth": "50.41%",
-    "uptimeYear": "50.41%",
+    "uptime": "48.38%",
+    "uptimeDay": "0.52%",
+    "uptimeWeek": "48.38%",
+    "uptimeMonth": "48.38%",
+    "uptimeYear": "48.38%",
     "time": 1687,
     "timeDay": 0,
     "timeWeek": 1687,
     "timeMonth": 1687,
     "timeYear": 1687,
     "dailyMinutesDown": {
-      "2023-08-26": 1275,
+      "2023-08-26": 1386,
       "2023-08-25": 46
     }
   },
@@ -1338,7 +1339,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-26": 1275,
+      "2023-08-26": 1386,
       "2023-08-25": 1389
     }
   }
