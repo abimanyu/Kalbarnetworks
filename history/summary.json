@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-27": 313,
+      "2023-08-27": 339,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1022
@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pontianak.go.id.ico",
     "slug": "kota-pontianak",
     "status": "up",
-    "uptime": "87.84%",
+    "uptime": "87.93%",
     "uptimeDay": "73.00%",
-    "uptimeWeek": "87.84%",
-    "uptimeMonth": "87.84%",
-    "uptimeYear": "87.84%",
+    "uptimeWeek": "87.93%",
+    "uptimeMonth": "87.93%",
+    "uptimeYear": "87.93%",
     "time": 11115,
     "timeDay": 12271,
     "timeWeek": 11115,
@@ -67,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mempawahkab.go.id.ico",
     "slug": "kab-mempawah",
     "status": "down",
-    "uptime": "94.14%",
-    "uptimeDay": "87.00%",
-    "uptimeWeek": "94.14%",
-    "uptimeMonth": "94.14%",
-    "uptimeYear": "94.14%",
+    "uptime": "93.40%",
+    "uptimeDay": "85.24%",
+    "uptimeWeek": "93.40%",
+    "uptimeMonth": "93.40%",
+    "uptimeYear": "93.40%",
     "time": 3599,
     "timeDay": 0,
     "timeWeek": 3599,
     "timeMonth": 3599,
     "timeYear": 3599,
     "dailyMinutesDown": {
-      "2023-08-27": 187
+      "2023-08-27": 213
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://sanggau.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/sanggau.go.id.ico",
     "slug": "kab-sanggau",
-    "status": "down",
-    "uptime": "76.91%",
-    "uptimeDay": "59.55%",
-    "uptimeWeek": "76.91%",
-    "uptimeMonth": "76.91%",
-    "uptimeYear": "76.91%",
-    "time": 3885,
-    "timeDay": 4821,
-    "timeWeek": 3885,
-    "timeMonth": 3885,
-    "timeYear": 3885,
+    "status": "up",
+    "uptime": "76.45%",
+    "uptimeDay": "58.11%",
+    "uptimeWeek": "76.45%",
+    "uptimeMonth": "76.45%",
+    "uptimeYear": "76.45%",
+    "time": 3649,
+    "timeDay": 4117,
+    "timeWeek": 3649,
+    "timeMonth": 3649,
+    "timeYear": 3649,
     "dailyMinutesDown": {
-      "2023-08-27": 21,
+      "2023-08-27": 41,
       "2023-08-26": 562,
       "2023-08-25": 155
     }
@@ -163,11 +163,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ketapangkab.go.id.ico",
     "slug": "kab-ketapang",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "98.09%",
-    "uptimeYear": "98.09%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "98.11%",
     "time": 4679,
     "timeDay": 0,
     "timeWeek": 4679,
@@ -183,11 +183,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sekadaukab.go.id.ico",
     "slug": "kab-sekadau",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
     "time": 2179,
     "timeDay": 0,
     "timeWeek": 2179,
@@ -203,11 +203,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sambas.go.id.ico",
     "slug": "kab-sambas",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
     "time": 2404,
     "timeDay": 2328,
     "timeWeek": 2404,
@@ -277,11 +277,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kapuashulukab.go.id.ico",
     "slug": "kab-kapuas-hulu",
     "status": "up",
-    "uptime": "87.72%",
+    "uptime": "87.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.72%",
-    "uptimeMonth": "87.72%",
-    "uptimeYear": "87.72%",
+    "uptimeWeek": "87.82%",
+    "uptimeMonth": "87.82%",
+    "uptimeYear": "87.82%",
     "time": 5731,
     "timeDay": 0,
     "timeWeek": 5731,
@@ -362,7 +362,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-27": 313,
+      "2023-08-27": 339,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 2
@@ -693,7 +693,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-27": 313,
+      "2023-08-27": 339,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 0
@@ -723,18 +723,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disketpangan.kalbarprov.go.id.ico",
     "slug": "dishanpan",
     "status": "down",
-    "uptime": "84.94%",
-    "uptimeDay": "66.60%",
-    "uptimeWeek": "84.94%",
-    "uptimeMonth": "84.94%",
-    "uptimeYear": "84.94%",
+    "uptime": "84.27%",
+    "uptimeDay": "64.84%",
+    "uptimeWeek": "84.27%",
+    "uptimeMonth": "84.27%",
+    "uptimeYear": "84.27%",
     "time": 2006,
     "timeDay": 1147,
     "timeWeek": 2006,
     "timeMonth": 2006,
     "timeYear": 2006,
     "dailyMinutesDown": {
-      "2023-08-27": 313,
+      "2023-08-27": 339,
       "2023-08-26": 168
     }
   },
@@ -845,7 +845,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-27": 313,
+      "2023-08-27": 339,
       "2023-08-26": 1440,
       "2023-08-25": 1439
     }
@@ -867,7 +867,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-27": 313,
+      "2023-08-27": 339,
       "2023-08-26": 1440,
       "2023-08-25": 1439
     }
@@ -1159,7 +1159,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-27": 313,
+      "2023-08-27": 339,
       "2023-08-26": 1440,
       "2023-08-25": 1438
     }
@@ -1217,7 +1217,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-27": 313,
+      "2023-08-27": 339,
       "2023-08-26": 1440,
       "2023-08-25": 1389
     }
@@ -1246,18 +1246,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aktivitas.kalbarprov.go.id.ico",
     "slug": "e-activity",
     "status": "up",
-    "uptime": "42.73%",
+    "uptime": "42.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.73%",
-    "uptimeMonth": "42.73%",
-    "uptimeYear": "42.73%",
+    "uptimeWeek": "42.39%",
+    "uptimeMonth": "42.39%",
+    "uptimeYear": "42.39%",
     "time": 1687,
     "timeDay": 0,
     "timeWeek": 1687,
     "timeMonth": 1687,
     "timeYear": 1687,
     "dailyMinutesDown": {
-      "2023-08-27": 313,
+      "2023-08-27": 339,
       "2023-08-26": 1440,
       "2023-08-25": 46
     }
@@ -1351,7 +1351,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-27": 313,
+      "2023-08-27": 339,
       "2023-08-26": 1440,
       "2023-08-25": 1389
     }
