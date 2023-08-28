@@ -5,6 +5,10 @@ repo: kalbarnetworks # The name of this repository
 sites:
   - name: Kalbar Prov
     url: https://www.kalbarprov.go.id
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Kota Pontianak
     url: https://pontianak.go.id
   - name: Kota Singkawang
@@ -195,18 +199,6 @@ i18n:
   loading: Loading
   navGitHub: GitHub
   footer: Halaman ini [open source]($REPO), dikembangkan oleh [Abimanyu Yusuf](https://github.com/abimanyu) dengan menggunakan [Upptime](https://upptime.js.org)
-  rateLimitExceededTitle: Batas tarif terlampaui
-  rateLimitExceededIntro: Anda telah melebihi jumlah permintaan yang dapat Anda lakukan dalam satu jam, jadi Anda harus menunggu sebelum mengakses situs web ini lagi. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub untuk terus menggunakan situs web ini.
-  rateLimitExceededWhatDoesErrorMean: Apa arti kesalahan ini?
-  rateLimitExceededErrorMeaning: Situs web ini menggunakan API GitHub untuk mengakses data waktu nyata tentang status situs web kami. Secara default, GitHub mengizinkan setiap alamat IP 60 permintaan per jam, yang telah Anda gunakan.
-  rateLimitExceededErrorHowCanFix: Bagaimana cara memperbaikinya?
-  rateLimitExceededErrorFix: Anda dapat menunggu satu jam lagi dan batas alamat IP Anda akan dipulihkan. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub Anda, yang memberi Anda 5.000 permintaan tambahan per jam.
-  rateLimitExceededGeneratePAT: Pelajari cara membuat Token Akses Pribadi
-  rateLimitExceededHasSet: Anda memiliki set token akses pribadi.
-  rateLimitExceededRemoveToken: Hapus token
-  rateLimitExceededGitHubPAT: Token Akses Pribadi GitHub
-  rateLimitExceededCopyPastePAT: Salin dan tempel token Anda
-  rateLimitExceededSaveToken: Simpan token
   errorTitle: Terjadi kesalahan
   errorIntro: Terjadi kesalahan saat mencoba mendapatkan detail status terbaru.
   errorText: Anda dapat mencoba lagi dalam beberapa saat.
