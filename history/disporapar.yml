@@ -1,7 +1,7 @@
 url: https://disporapar.kalbarprov.go.id
-status: up
-code: 200
-responseTime: 6870
-lastUpdated: 2023-08-28T08:50:22.027Z
+status: down
+code: 502
+responseTime: 1013
+lastUpdated: 2023-08-28T20:39:39.007Z
 startTime: 2023-08-25T00:01:00.225Z
 generator: Upptime <https://github.com/upptime/upptime>
