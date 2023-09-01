@@ -162,7 +162,6 @@ status-website:
   name: Status Web Pemerintahan Kalimantan Barat - Kalbarnetworks
   introTitle: "**KalbarNetworks** adalah Status uptime bagi website di [Kalbar](https://www.kalbarprov.go.id/)."
   introMessage: Halaman ini berfungsi untuk memonitor website yang berhubungan dengan [Kalimantan Barat](https://www.kalbarprov.go.id/)
-  theme: dark
   navbar:
     - title: Status
       href: /
