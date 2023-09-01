@@ -160,6 +160,7 @@ status-website:
   logoUrl: https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_West_Kalimantan.svg
   favicon: https://kalbarprov.go.id/public/assets/images/favicon.ico
   name: Status Web Pemerintahan Kalimantan Barat - Kalbarnetworks
+  themeUrl: https://demo.upptime.js.org/themes/dark.css
   introTitle: "**KalbarNetworks** adalah Status uptime bagi website di [Kalbar](https://www.kalbarprov.go.id/)."
   introMessage: Halaman ini berfungsi untuk memonitor website yang berhubungan dengan [Kalimantan Barat](https://www.kalbarprov.go.id/)
   navbar:
