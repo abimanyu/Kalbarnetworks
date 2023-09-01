@@ -4,7 +4,7 @@ repo: kalbarnetworks # The name of this repository
 
 sites:
   - name: Kalbar Prov
-    url: https://www.kalbarprov.go.id
+    url: https://kalbarprov.go.id
     expectedStatusCodes:
       - 200
       - 201
