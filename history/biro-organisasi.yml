@@ -1,7 +1,7 @@
 url: https://biroorganisasi.kalbarprov.go.id
-status: up
-code: 200
-responseTime: 604
-lastUpdated: 2023-09-14T23:07:42.376Z
+status: down
+code: 500
+responseTime: 5575
+lastUpdated: 2023-09-15T14:55:01.179Z
 startTime: 2023-08-24T23:58:09.210Z
 generator: Upptime <https://github.com/upptime/upptime>
