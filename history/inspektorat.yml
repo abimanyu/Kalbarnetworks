@@ -1,7 +1,7 @@
 url: https://inspektorat.kalbarprov.go.id
-status: up
-code: 200
-responseTime: 2066
-lastUpdated: 2023-09-15T17:13:13.277Z
+status: down
+code: 500
+responseTime: 1114
+lastUpdated: 2023-09-15T17:20:09.160Z
 startTime: 2023-08-25T00:01:51.039Z
 generator: Upptime <https://github.com/upptime/upptime>
