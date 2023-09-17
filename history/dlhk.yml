@@ -1,7 +1,7 @@
 url: https://lhk.kalbarprov.go.id
-status: up
-code: 200
-responseTime: 3277
-lastUpdated: 2023-09-17T01:37:53.620Z
+status: down
+code: 500
+responseTime: 1074
+lastUpdated: 2023-09-17T06:32:05.755Z
 startTime: 2023-08-25T00:01:14.550Z
 generator: Upptime <https://github.com/upptime/upptime>
