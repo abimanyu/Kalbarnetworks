@@ -1,7 +1,7 @@
 url: https://disnakertrans.kalbarprov.go.id
-status: up
-code: 200
-responseTime: 3437
-lastUpdated: 2023-09-17T01:37:08.485Z
+status: down
+code: 500
+responseTime: 1089
+lastUpdated: 2023-09-17T06:31:27.092Z
 startTime: 2023-08-25T00:00:10.386Z
 generator: Upptime <https://github.com/upptime/upptime>
