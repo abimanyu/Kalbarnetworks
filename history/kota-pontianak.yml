@@ -1,7 +1,7 @@
 url: https://pontianak.go.id
-status: up
-code: 200
-responseTime: 11473
-lastUpdated: 2023-11-05T23:06:09.797Z
+status: down
+code: 500
+responseTime: 1921
+lastUpdated: 2023-11-06T08:49:40.852Z
 startTime: 2023-08-24T23:56:25.978Z
 generator: Upptime <https://github.com/upptime/upptime>
