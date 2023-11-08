@@ -1,7 +1,7 @@
 url: https://dpm-ptsp.kalbarprov.go.id
-status: up
-code: 200
-responseTime: 1155
-lastUpdated: 2023-11-07T23:09:29.944Z
+status: down
+code: 503
+responseTime: 1153
+lastUpdated: 2023-11-08T20:22:56.446Z
 startTime: 2023-08-25T00:01:23.313Z
 generator: Upptime <https://github.com/upptime/upptime>
