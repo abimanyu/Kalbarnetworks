@@ -1,7 +1,7 @@
 url: https://sambas.go.id
-status: up
-code: 200
-responseTime: 7212
-lastUpdated: 2023-11-13T15:49:14.195Z
+status: down
+code: 500
+responseTime: 8357
+lastUpdated: 2023-11-13T16:00:06.812Z
 startTime: 2023-08-24T23:57:05.704Z
 generator: Upptime <https://github.com/upptime/upptime>
